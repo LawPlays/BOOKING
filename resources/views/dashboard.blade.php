@@ -6,6 +6,7 @@
             background: radial-gradient(circle at center, #0c1c3b 0%, #050a1f 100%);
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             color: #fff;
+            
             overflow: hidden;
         }
 
